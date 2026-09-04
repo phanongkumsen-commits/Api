@@ -1,4 +1,4 @@
-# 🎂 Happy 23rd Birthday Sia! - Interactive Birthday Experience  
+# 🎂 Happy Birthday Api! - Interactive Birthday Experience  
 
 [![Live Demo](https://img.shields.io/badge/🎉%20Live%20Demo-Click%20Here-blueviolet?style=for-the-badge)](https://patrick-paul.github.io/happybirthday/)
 
@@ -32,7 +32,7 @@ A personalized, interactive birthday greeting webpage featuring smooth animation
 2. **Customize the Content**
 
    - Replace `./img/sia.jpg` with your recipient's photo
-   - Update the name "Sia" throughout the HTML
+   - Update the name "Api" throughout the HTML
    - Modify the birthday message in the text box section
    - Add your own birthday song to `./music/hbd.mpeg`
    - Update custom cursor images in `./img/` if desired
